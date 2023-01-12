@@ -10,7 +10,7 @@ Por serem projetos mais completos usando a biblioteca React.js, este readme most
         Solar System
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-solar-system">
-      <img src="./imgs/placeholder_400x250.png">
+      <img src="./imgs/01_solar_system.jpg">
       </a>
     </td>
     <td width="50%" align="center">
