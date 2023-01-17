@@ -17,8 +17,8 @@ Por serem projetos mais completos usando a biblioteca React.js, este readme most
       <h2>
         Tryunfo
       <h2>
-      <a href="#">
-      <img src="./imgs/placeholder_400x250.png">
+      <a href="https://github.com/davidrogger/trybe-project-tryunfo">
+      <img src="./imgs/02_tryunfo.jpg">
       </a>
     </td>
   </tr>
