@@ -28,8 +28,8 @@ Por serem projetos mais completos usando a biblioteca React.js, este readme most
       <h2>
         TrybeTunes
       <h2>
-      <a href="#">
-      <img src="./imgs/placeholder_400x250.png">
+      <a href="https://github.com/davidrogger/trybe-project-trybetunes">
+      <img src="./imgs/03_trybetunes.png">
       </a>
     </td>
     <td width="50%" align="center">
@@ -47,7 +47,7 @@ Por serem projetos mais completos usando a biblioteca React.js, este readme most
       <h2>
         Testes em React
       <h2>
-      <a href="#">
+      <a href="https://github.com/davidrogger/trybe-project-">
       <img src="./imgs/placeholder_400x250.png">
       </a>
     </td>
@@ -55,7 +55,7 @@ Por serem projetos mais completos usando a biblioteca React.js, este readme most
       <h2>
         Trybe Wallet
       <h2>
-      <a href="#">
+      <a href="https://github.com/davidrogger/trybe-project-">
       <img src="./imgs/placeholder_400x250.png">
       </a>
     </td>
@@ -66,7 +66,7 @@ Por serem projetos mais completos usando a biblioteca React.js, este readme most
       <h2>
         Jogo de Trívia
       <h2>
-      <a href="#">
+      <a href="https://github.com/davidrogger/trybe-project-">
       <img src="./imgs/placeholder_400x250.png">
       </a>
     </td>
@@ -85,7 +85,7 @@ Por serem projetos mais completos usando a biblioteca React.js, este readme most
       <h2>
         App de Receitas
       <h2>
-      <a href="#">
+      <a href="https://github.com/davidrogger/trybe-project-">
       <img src="./imgs/placeholder_400x250.png">
       </a>
     </td>
