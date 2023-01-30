@@ -45,10 +45,10 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
   <tr valign="top">
     <td width="50%" align="center">
       <h2>
-        Testes em React
+        React Testing Library
       <h2>
-      <a href="https://github.com/davidrogger/trybe-project-">
-      <img src="./imgs/placeholder_400x250.png">
+      <a href="https://github.com/davidrogger/trybe-project-react-testing-library">
+      <img src="./imgs/05_project-rlt.webp">
       </a>
     </td>
     <td width="50%" align="center">
