@@ -10,7 +10,7 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
         Solar System
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-solar-system">
-      <img src="./imgs/01_solar_system.jpg">
+      <img src="./imgs/01_solar_system.webp">
       </a>
     </td>
     <td width="50%" align="center">
@@ -18,7 +18,7 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
         Tryunfo
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-tryunfo">
-      <img src="./imgs/02_tryunfo.jpg">
+      <img src="./imgs/02_tryunfo.webp">
       </a>
     </td>
   </tr>
@@ -29,15 +29,15 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
         TrybeTunes
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-trybetunes">
-      <img src="./imgs/03_trybetunes.png">
+      <img src="./imgs/03_trybetunes.webp">
       </a>
     </td>
     <td width="50%" align="center">
       <h2>
         Front-end Online Store
       <h2>
-      <a href="#">
-      <img src="./imgs/placeholder_400x250.png">
+      <a href="https://github.com/davidrogger/trybe-project-frontend-online-store">
+      <img src="./imgs/04_project_frontend_online_store.webp">
       </a>
     </td>
   </tr>
