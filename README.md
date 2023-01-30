@@ -36,8 +36,8 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
       <h2>
         Front-end Online Store
       <h2>
-      <a href="#">
-      <img src="./imgs/placeholder_400x250.png">
+      <a href="https://github.com/davidrogger/trybe-project-frontend-online-store">
+      <img src="./imgs/04_project_frontend_online_store.webp">
       </a>
     </td>
   </tr>
