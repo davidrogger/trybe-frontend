@@ -48,15 +48,15 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
         React Testing Library
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-react-testing-library">
-      <img src="./imgs/05_project-rlt.webp">
+      <img src="./imgs/05_react_testing_library.webp">
       </a>
     </td>
     <td width="50%" align="center">
       <h2>
         Trybe Wallet
       <h2>
-      <a href="https://github.com/davidrogger/trybe-project-">
-      <img src="./imgs/placeholder_400x250.png">
+      <a href="https://github.com/davidrogger/trybe-project-trybewallet">
+      <img src="./imgs/06_trybewallet.webp">
       </a>
     </td>
   </tr>
