@@ -66,8 +66,8 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
       <h2>
         Jogo de Trívia
       <h2>
-      <a href="https://github.com/davidrogger/trybe-project-">
-      <img src="./imgs/placeholder_400x250.png">
+      <a href="https://github.com/davidrogger/trybe-project-trivia">
+      <img src="./imgs/07_trivia.webp">
       </a>
     </td>
     <td width="50%" align="center">
