@@ -85,8 +85,8 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
       <h2>
         App de Receitas
       <h2>
-      <a href="https://github.com/davidrogger/trybe-project-">
-      <img src="./imgs/placeholder_400x250.png">
+      <a href="https://github.com/davidrogger/trybe-project-recipes-app">
+      <img src="./imgs/09_recipes_app.webp">
       </a>
     </td>
   </tr>
