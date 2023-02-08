@@ -66,7 +66,7 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
       <h2>
         Jogo de Trívia
       <h2>
-      <a href="https://github.com/davidrogger/trybe-project-starwars-planets-search">
+      <a href="https://github.com/davidrogger/trybe-project-trivia">
       <img src="./imgs/07_trivia.webp">
       </a>
     </td>
@@ -74,7 +74,7 @@ Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.
       <h2>
         StarWars Datatable
       <h2>
-      <a href="#">
+      <a href="https://github.com/davidrogger/trybe-project-starwars-planets-search">
       <img src="./imgs/08_starwars_datatable.webp">
       </a>
     </td>
