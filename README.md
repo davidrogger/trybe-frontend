@@ -1,4 +1,4 @@
-# Front-end
+# Frontend
 
 Projetos realizados durante o módulo de Frontend na escola [trybe](https://www.betrybe.com/).
 >Visão geral dos Projetos dividindo cada projeto com seu respetivo repositório, onde é possível acessar todo código e a aplicação.
